@@ -6,4 +6,6 @@ Templates to reuse for personal projects
 
 - PR
 - Issue
+  - Bug report
+  - Feature request
 - Codeowners
